@@ -1,3 +1,4 @@
+#test
 name: Update gist with WakaTime stats
 on:
   push:
